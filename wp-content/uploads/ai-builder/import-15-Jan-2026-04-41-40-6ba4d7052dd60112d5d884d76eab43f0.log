@@ -1,0 +1,30 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Отключить
+Operating System 	: WINNT
+Software 		: Apache
+MySQL version 		: 5.7.39
+XML Reader 		: Да
+PHP Version 		: 8.0.22
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 50M
+PHP Extension GD 	: Да
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 50 МБ
+Memory Limit 		: Текущий лимит памяти 40M. Мы рекомендуем установить для памяти не менее 64M.
+Timezone 		: 3
+
+-----
+
+Importing Started! - 17:30:14 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+{"post_title":"Response XML","post_mime_type":"application\/xml","post_content":"","post_status":"inherit"}
+"D:\\OSPanel\\domains\\wordpress\/wp-content\/uploads\/2026\/01\/wxr.xml"
+28
